@@ -1,2 +1,2 @@
 # SVU_CS511_ML
-SVU Machine Learning based on UC Berkeley CS189
+AIU Machine Learning based on UC Berkeley CS189
